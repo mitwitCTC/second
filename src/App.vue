@@ -205,6 +205,6 @@ export default {
   background-color: #9eee68;
 }
 .active-menu {
-  color: rgb(18, 18, 18); /* 设置展开状态下标题的字体颜色为黑色 */
+  color: rgb(18, 18, 18); /* 展开状态下标题的字体颜色为黑色 */
 }
 </style>
